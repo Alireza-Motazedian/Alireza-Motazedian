@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi There
+---
+• Machine Learning Researcher: Dealing with noisy time-series data using Deep Learning and traditional Machine Learning algorithms.
+I am doing this project for the Electrical and Computer Engineering department, UNH.
 
-<!--
-**Alireza-Motazedian/Alireza-Motazedian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Publication (28): 23 published (6 Journals & 17 full conference papers), 5 under preparation.
 
-Here are some ideas to get you started:
+• Space Science: As a doctoral project I want to provide a predictive model to investigate the harmful effects of geomagnetic storms.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Medical project: As part of my Ph.D. project, I will develop a predictive model to evaluate the effect of plasma technology on cancer cells. 
+
+• Nonlinear Optics: My master’s project investigated the effects of thermal radiation on nonlinear crystals. This project will be continued, and five papers are expected to be published.
+
+• Recommendations: Please see my recommendations.
+
+
