@@ -1,15 +1,17 @@
-Highlights:
----
-• **Machine Learning Researcher**: Dealing with noisy time-series data using Deep Learning and traditional Machine Learning algorithms.
+## Alireza Motazedian  &nbsp;&nbsp;&nbsp;   [![Personal Website](https://img.shields.io/badge/-Alireza--motazedian.com-0070C0?style=flat&link=https://alireza-motazedian.com/)](https://alireza-motazedian.com/)   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/alireza-motazedian/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4UwOxtfuRZo6IV-JkWMY1BDE1oqBkNR4gWIVVYl71y_zNFg1dgNGPYzcLKxGjf7hi-Uqs1xFfXlxN37DWAINmTkdV7PTO256WwwShdVW8eo9XFRmm9OTpUmdYLNH43G-D3qFeHxjJXraaheJqy2XmFz3g5Fg&user=SEYzORQAAAAJ)   [![ResearchGate](https://img.shields.io/badge/-blue?label=ResearchGate&style=social&logo=ResearchGate)](https://www.researchgate.net/profile/Alireza-Motazedian?editMode=1&sorting=recentlyAdded)   [![ORCID](https://img.shields.io/badge/-green?label=ORCID&style=social&logo=ORCID)](https://orcid.org/0000-0002-2352-2245)   [![Twitter Badge](https://img.shields.io/badge/-1da1f2?label=Twitter&style=social&logo=twitter&link=https://twitter.com/a_motazedian)](https://twitter.com/a_motazedian)   [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:alireza.mohammadrezaee@gmail.com)   [![GitLab](https://img.shields.io/badge/-green?label=GitLab&style=social&logo=Gitlab)](https://gitlab.com/alireza-motazedian)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/alireza-motazedian)     
+
+## My brief CV    
+
+- **Machine Learning Researcher**: Dealing with noisy time-series data using Deep Learning and traditional Machine Learning algorithms.
 I am doing this project for the Electrical and Computer Engineering department, UNH.
 
-• **Publication (28)**: [23 published](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4UwOxtfuRZo6IV-JkWMY1BDE1oqBkNR4gWIVVYl71y_zNFg1dgNGPYzcLKxGjf7hi-Uqs1xFfXlxN37DWAINmTkdV7PTO256WwwShdVW8eo9XFRmm9OTpUmdYLNH43G-D3qFeHxjJXraaheJqy2XmFz3g5Fg&user=SEYzORQAAAAJ) (6 Journals & 17 full conference papers), 5 under preparation.
+- **Publication (28)**: [23 published](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4UwOxtfuRZo6IV-JkWMY1BDE1oqBkNR4gWIVVYl71y_zNFg1dgNGPYzcLKxGjf7hi-Uqs1xFfXlxN37DWAINmTkdV7PTO256WwwShdVW8eo9XFRmm9OTpUmdYLNH43G-D3qFeHxjJXraaheJqy2XmFz3g5Fg&user=SEYzORQAAAAJ) (6 Journals & 17 full conference papers), 5 under preparation.
 
-• **Space Science**: As a doctoral project I want to provide a predictive model to investigate the harmful effects of geomagnetic storms.  
+- **Space Science**: As a doctoral project I want to provide a predictive model to investigate the harmful effects of geomagnetic storms.  
 
-• **Nonlinear Optics**: My master’s project investigated the effects of thermal radiation on nonlinear crystals. This project will be continued, and five papers are expected to be published.
+- **Nonlinear Optics**: My master’s project investigated the effects of thermal radiation on nonlinear crystals. This project will be continued, and five papers are expected to be published.
 
-• **Recommendations**: Please see my [**recommendations**](https://www.linkedin.com/in/alireza-motazedian/details/recommendations/?detailScreenTabIndex=0)
+- **Recommendations**: Please see my [recommendations.](https://www.linkedin.com/in/alireza-motazedian/details/recommendations/?detailScreenTabIndex=0)
 
 
 ## Skills 
