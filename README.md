@@ -1,6 +1,5 @@
 ## Alireza Motazedian  &nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/alireza-motazedian/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4UwOxtfuRZo6IV-JkWMY1BDE1oqBkNR4gWIVVYl71y_zNFg1dgNGPYzcLKxGjf7hi-Uqs1xFfXlxN37DWAINmTkdV7PTO256WwwShdVW8eo9XFRmm9OTpUmdYLNH43G-D3qFeHxjJXraaheJqy2XmFz3g5Fg&user=SEYzORQAAAAJ)   [![ORCID](https://img.shields.io/badge/-green?label=ORCID&style=social&logo=ORCID)](https://orcid.org/0000-0002-2352-2245)  
 
----  
 
 ### Data Scientist | ML Engineer | Ph.D. Candidate in Physics
 
@@ -8,11 +7,11 @@
 
 ## My brief CV    
 
-- **Machine Learning Researcher**: Developing ensemble Machine Learning models to forecast Inner Magnetospheric Electric Field (IMEF) from noisy solar wind and geomagnetic data.
+- **Machine Learning Researcher**: Developing ensemble machine learning models to forecast the Inner Magnetospheric Electric Field (IMEF) from noisy solar wind and geomagnetic data.
 
-- **Space Science**: Modeling geomagnetic storms and forecasting the IMEF using real-time data.  
+- **Space Science**: Modeling geomagnetic storms and predicting IMEF behavior using real-time space weather data.
 
-- **Nonlinear Optics**: Studied thermal effects on nonlinear crystals.
+- **Nonlinear Optics**: Investigated thermal effects on nonlinear crystals during master’s research.
 
 
 ## Skills 
