@@ -5,7 +5,7 @@
 
 --- 
 
-## My brief CV    
+## Professional Summary    
 
 - **Machine Learning Researcher**: Developing ensemble machine learning models to forecast the Inner Magnetospheric Electric Field (IMEF) from noisy solar wind and geomagnetic data.
 
