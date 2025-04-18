@@ -4,15 +4,6 @@
 ### Data Scientist | ML Engineer | Ph.D. Candidate in Physics
 
 --- 
-
-## Professional Summary    
-
-- **Machine Learning Researcher**: Developing ensemble machine learning models to forecast the Inner Magnetospheric Electric Field (IMEF) from noisy solar wind and geomagnetic data.
-
-- **Space Science**: Modeling geomagnetic storms and predicting IMEF behavior using real-time space weather data.
-
-- **Nonlinear Optics**: Investigated thermal effects on nonlinear crystals during master’s research.
-
 Enjoy my best GitHub repos available at [Stars](https://github.com/alireza-motazedian?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories.
   - [AI Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
   - [ML Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
