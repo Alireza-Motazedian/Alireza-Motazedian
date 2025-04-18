@@ -8,7 +8,7 @@ Enjoy my best GitHub repos available at [Stars](https://github.com/alireza-motaz
   - [AI Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
   - [ML Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
   - [Space Physics](https://github.com/stars/alireza-motazedian/lists/space-physics) Modeling geomagnetic storms and predicting Inner Magnetospheric Electric Field (IMEF) dynamics to improve space weather forecasting.
-  - [Physics & Engineering](https://github.com/stars/alireza-motazedian/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering
+  - [Physics & Engineering](https://github.com/stars/alireza-motazedian/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering.
   - [Personal Branding](https://github.com/stars/alireza-motazedian/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
   
 ## Skills 
