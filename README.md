@@ -8,46 +8,42 @@
 
 ---
 
-**🧠 AI Engineering**  --->  Think Deep
+**🧠 AI Engineering** ———> Think Deep
 - Supervised / Unsupervised
 - ANN, CNN, Transformers
 - ML for scientific discovery
 
 ---
 
-**🌍 Space Physics** ---> Model the Magnetosphere
+**🌍 Space Physics** ———> Model the Magnetosphere
 - IMEF & Dst prediction
 - Path integration vs. Least-Squares
 - Real-time space weather forecasting
 
 ---
 
-**📈 Time Series & Forecasting**
-Predict the Future
+**📈 Time Series & Forecasting** ———> Predict the Future
 - Time-series modeling with LSTM, ARIMA, Prophet
 - Forecasting geomagnetic storms and space weather
 - Handling noisy datasets and missing data
 
 ---
 
-**⚙️ ML Engineering**
-Build Smart
+**⚙️ ML Engineering** ———> Build Smart
 - Scalable pipelines
 - Feature engineering
 - Deployment with Docker, GitHub Actions
 
 ---
 
-**🧪 Physics & Engineering**
-Code Reality
+**🧪 Physics & Engineering** ———> Code Reality
 - FORTRAN simulations
 - FDM, inverse methods
 - Nonlinear optics, field modeling
 
 ---
 
-**🧭 Personal Branding**
-Show Your Work
+**🧭 Personal Branding** ———> Show Your Work
 - ATS-ready resume
 - GitHub profile design
 - Visual storytelling for tech
