@@ -6,8 +6,6 @@
 🚀 AI x Space x Engineering — My GitHub Universe
 </div>
 
-
-
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center;">
