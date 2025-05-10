@@ -8,49 +8,9 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center;">
-
-  <div style="flex: 1 1 300px; min-width: 250px; max-width: 400px;">
-    <h3>🧠 AI Engineering</h3>
-    <b>Think Deep</b><br>
-    → Supervised / Unsupervised<br>
-    → ANN, CNN, Transformers<br>
-    → ML for scientific discovery
-    <hr>
-    <h3>🌍 Space Physics</h3>
-    <b>Model the Magnetosphere</b><br>
-    → IMEF & Dst prediction<br>
-    → Path integration vs. Least-Squares<br>
-    → Real-time space weather forecasting
-    <hr>
-    <h3>📈 Time Series & Forecasting</h3>
-    <b>Predict the Future</b><br>
-    → Time-series modeling with LSTM, ARIMA, Prophet<br>
-    → Forecasting geomagnetic storms and space weather<br>
-    → Handling noisy datasets and missing data
-  </div>
-
-  <div style="flex: 1 1 300px; min-width: 250px; max-width: 400px;">
-    <h3>⚙️ ML Engineering</h3>
-    <b>Build Smart</b><br>
-    → Scalable pipelines<br>
-    → Feature engineering<br>
-    → Deployment with Docker, GitHub Actions
-    <hr>
-    <h3>🧪 Physics & Engineering</h3>
-    <b>Code Reality</b><br>
-    → FORTRAN simulations<br>
-    → FDM, inverse methods<br>
-    → Nonlinear optics, field modeling
-    <hr>
-    <h3>🧭 Personal Branding</h3>
-    <b>Show Your Work</b><br>
-    → ATS-ready resume<br>
-    → GitHub profile design<br>
-    → Visual storytelling for tech
-  </div>
-
-</div>
+|  |  |
+|---|---|
+| **🧠 AI Engineering**<br>Think Deep<br>→ Supervised / Unsupervised<br>→ ANN, CNN, Transformers<br>→ ML for scientific discovery<br>**🌍 Space Physics**<br>Model the Magnetosphere<br>→ IMEF & Dst prediction<br>→ Path integration vs. Least-Squares<br>→ Real-time space weather forecasting<br>**📈 Time Series & Forecasting**<br>Predict the Future<br>→ Time-series modeling with LSTM, ARIMA, Prophet<br>→ Forecasting geomagnetic storms and space weather<br>→ Handling noisy datasets and missing data | **⚙️ ML Engineering**<br>Build Smart<br>→ Scalable pipelines<br>→ Feature engineering<br>→ Deployment with Docker, GitHub Actions<br>**🧪 Physics & Engineering**<br>Code Reality<br>→ FORTRAN simulations<br>→ FDM, inverse methods<br>→ Nonlinear optics, field modeling<br>**🧭 Personal Branding**<br>Show Your Work<br>→ ATS-ready resume<br>→ GitHub profile design<br>→ Visual storytelling for tech |
 
 ## Skills 
 
