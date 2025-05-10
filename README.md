@@ -2,7 +2,7 @@
 
 
 
-<div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">
+<div style="font-size:3em; font-white:bold; text-align:center; margin-top:20px;">
 🚀 AI x Space x Engineering — My GitHub Universe
 </div>
 
