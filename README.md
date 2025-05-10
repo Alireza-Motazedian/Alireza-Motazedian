@@ -10,48 +10,49 @@
 
 ---
 
-### 🧠 AI Engineering
+<div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center;">
 
-**Think Deep**  
-→ Supervised / Unsupervised  
-→ ANN, CNN, Transformers  
-→ ML for scientific discovery
+  <div style="flex: 1 1 300px; min-width: 250px; max-width: 400px;">
+    <h3>🧠 AI Engineering</h3>
+    <b>Think Deep</b><br>
+    → Supervised / Unsupervised<br>
+    → ANN, CNN, Transformers<br>
+    → ML for scientific discovery
+    <hr>
+    <h3>🌍 Space Physics</h3>
+    <b>Model the Magnetosphere</b><br>
+    → IMEF & Dst prediction<br>
+    → Path integration vs. Least-Squares<br>
+    → Real-time space weather forecasting
+    <hr>
+    <h3>📈 Time Series & Forecasting</h3>
+    <b>Predict the Future</b><br>
+    → Time-series modeling with LSTM, ARIMA, Prophet<br>
+    → Forecasting geomagnetic storms and space weather<br>
+    → Handling noisy datasets and missing data
+  </div>
 
----
+  <div style="flex: 1 1 300px; min-width: 250px; max-width: 400px;">
+    <h3>⚙️ ML Engineering</h3>
+    <b>Build Smart</b><br>
+    → Scalable pipelines<br>
+    → Feature engineering<br>
+    → Deployment with Docker, GitHub Actions
+    <hr>
+    <h3>🧪 Physics & Engineering</h3>
+    <b>Code Reality</b><br>
+    → FORTRAN simulations<br>
+    → FDM, inverse methods<br>
+    → Nonlinear optics, field modeling
+    <hr>
+    <h3>🧭 Personal Branding</h3>
+    <b>Show Your Work</b><br>
+    → ATS-ready resume<br>
+    → GitHub profile design<br>
+    → Visual storytelling for tech
+  </div>
 
-### ⚙️ ML Engineering
-
-**Build Smart**  
-→ Scalable pipelines  
-→ Feature engineering  
-→ Deployment with Docker, GitHub Actions
-
----
-
-### 🌍 Space Physics
-
-**Model the Magnetosphere**  
-→ IMEF & Dst prediction  
-→ Path integration vs. Least-Squares  
-→ Real-time space weather forecasting
-
----
-
-### 🧪 Physics & Engineering
-
-**Code Reality**  
-→ FORTRAN simulations  
-→ FDM, inverse methods  
-→ Nonlinear optics, field modeling
-
----
-
-### 🧭 Personal Branding
-
-**Show Your Work**  
-→ ATS-ready resume  
-→ GitHub profile design  
-→ Visual storytelling for tech
+</div>
 
 ## Skills 
 
