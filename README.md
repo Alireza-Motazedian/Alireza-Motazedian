@@ -8,16 +8,14 @@
 
 ---
 
-**🧠 AI Engineering**
-Think Deep
+**🧠 AI Engineering**  --->  Think Deep
 - Supervised / Unsupervised
 - ANN, CNN, Transformers
 - ML for scientific discovery
 
 ---
 
-**🌍 Space Physics**
-Model the Magnetosphere
+**🌍 Space Physics** ---> Model the Magnetosphere
 - IMEF & Dst prediction
 - Path integration vs. Least-Squares
 - Real-time space weather forecasting
