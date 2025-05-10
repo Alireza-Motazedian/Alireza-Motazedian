@@ -4,13 +4,96 @@
 ### Data Scientist | ML Engineer | Ph.D. Candidate in Physics
 
 --- 
-Enjoy my best GitHub repos available at [Stars](https://github.com/alireza-motazedian?tab=stars) tab. They are a collection of curated repos for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories.
-  - [AI Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
-  - [ML Engineering](https://github.com/stars/alireza-motazedian/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
-  - [Space Physics](https://github.com/stars/alireza-motazedian/lists/space-physics) Modeling geomagnetic storms and predicting Inner Magnetospheric Electric Field (IMEF) dynamics to improve space weather forecasting.
-  - [Physics & Engineering](https://github.com/stars/alireza-motazedian/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering.
-  - [Personal Branding](https://github.com/stars/alireza-motazedian/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
-  
+<div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">
+🚀 AI x Space x Engineering — My GitHub Universe
+</div>
+
+Explore a curated collection of <b>research-grade tools</b>, <b>production-ready code</b>, and <b>domain-specific models</b> across AI, ML, and physics. Structured into core focus areas:
+
+---
+
+# 1. 🧠 AI Engineering
+
+*Research-Driven AI Development*
+
+## 1.1 Foundations
+- Neural Networks (ANN, CNN, RNN)
+- Transformers
+- Feature Engineering
+
+## 1.2 Learning Paradigms
+- Supervised Learning (Regression, Classification)
+- Unsupervised Learning (Clustering, Dimensionality Reduction)
+- Reinforcement Learning (coming soon)
+
+## 1.3 Applications
+- ML for Space Weather
+- Forecasting models
+- Scientific ML
+
+---
+
+# 2. ⚙️ ML Engineering
+
+*Productionizing ML Workflows*
+
+## 2.1 Deployment-Ready Pipelines
+- Model training, validation, packaging
+- Docker-based reproducibility
+
+## 2.2 Automation
+- Data preprocessing
+- Imputation techniques
+
+## 2.3 Tools
+- Scikit-learn, TensorFlow, PyTorch
+- GitHub Actions, Conda, VSCode
+
+---
+
+# 3. 🌌 Space Physics Modeling
+
+*Physics-Informed Machine Learning*
+
+## 3.1 Geomagnetic Storms & Dst Prediction
+- Real-time IMEF modeling
+- Ensemble learning for solar wind forecasting
+
+## 3.2 Electric Field Inversion
+- Path integration vs Least-Squares
+- Volland-Stern Model validation
+
+---
+
+# 4. 📐 Physics & Engineering Simulations
+
+*Scientific Computing from First Principles*
+
+## 4.1 Numerical Methods
+- Finite Difference Method (FDM)
+- Sparse Solvers
+
+## 4.2 Languages
+- FORTRAN, Python
+
+## 4.3 Projects
+- Second Harmonic Generation (SHG)
+- Potential Field Reconstruction
+
+---
+
+# 5. 🧭 Personal Branding
+
+*Professional Growth & Communication*
+
+## 5.1 Resume & Portfolio
+- ATS-optimized resume template
+- GitHub profile styling
+
+## 5.2 Visual Design
+- LinkedIn banner designs
+- Repository branding (banners, topics, descriptions)
+
 ## Skills 
 
 | Skills | Technologies  |
