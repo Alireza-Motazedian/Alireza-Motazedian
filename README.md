@@ -1,98 +1,57 @@
 ## Alireza Motazedian  &nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/alireza-motazedian/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4UwOxtfuRZo6IV-JkWMY1BDE1oqBkNR4gWIVVYl71y_zNFg1dgNGPYzcLKxGjf7hi-Uqs1xFfXlxN37DWAINmTkdV7PTO256WwwShdVW8eo9XFRmm9OTpUmdYLNH43G-D3qFeHxjJXraaheJqy2XmFz3g5Fg&user=SEYzORQAAAAJ)   [![ORCID](https://img.shields.io/badge/-green?label=ORCID&style=social&logo=ORCID)](https://orcid.org/0000-0002-2352-2245)  
 
 
-### Data Scientist | ML Engineer | Ph.D. Candidate in Physics
 
---- 
 <div style="font-size:2.5em; font-weight:bold; text-align:center; margin-top:20px;">
 🚀 AI x Space x Engineering — My GitHub Universe
 </div>
 
-Explore a curated collection of <b>research-grade tools</b>, <b>production-ready code</b>, and <b>domain-specific models</b> across AI, ML, and physics. Structured into core focus areas:
+
 
 ---
 
-# 1. 🧠 AI Engineering
+### 🧠 AI Engineering
 
-*Research-Driven AI Development*
-
-## 1.1 Foundations
-- Neural Networks (ANN, CNN, RNN)
-- Transformers
-- Feature Engineering
-
-## 1.2 Learning Paradigms
-- Supervised Learning (Regression, Classification)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
-- Reinforcement Learning (coming soon)
-
-## 1.3 Applications
-- ML for Space Weather
-- Forecasting models
-- Scientific ML
+**Think Deep**  
+→ Supervised / Unsupervised  
+→ ANN, CNN, Transformers  
+→ ML for scientific discovery
 
 ---
 
-# 2. ⚙️ ML Engineering
+### ⚙️ ML Engineering
 
-*Productionizing ML Workflows*
-
-## 2.1 Deployment-Ready Pipelines
-- Model training, validation, packaging
-- Docker-based reproducibility
-
-## 2.2 Automation
-- Data preprocessing
-- Imputation techniques
-
-## 2.3 Tools
-- Scikit-learn, TensorFlow, PyTorch
-- GitHub Actions, Conda, VSCode
+**Build Smart**  
+→ Scalable pipelines  
+→ Feature engineering  
+→ Deployment with Docker, GitHub Actions
 
 ---
 
-# 3. 🌌 Space Physics Modeling
+### 🌍 Space Physics
 
-*Physics-Informed Machine Learning*
-
-## 3.1 Geomagnetic Storms & Dst Prediction
-- Real-time IMEF modeling
-- Ensemble learning for solar wind forecasting
-
-## 3.2 Electric Field Inversion
-- Path integration vs Least-Squares
-- Volland-Stern Model validation
+**Model the Magnetosphere**  
+→ IMEF & Dst prediction  
+→ Path integration vs. Least-Squares  
+→ Real-time space weather forecasting
 
 ---
 
-# 4. 📐 Physics & Engineering Simulations
+### 🧪 Physics & Engineering
 
-*Scientific Computing from First Principles*
-
-## 4.1 Numerical Methods
-- Finite Difference Method (FDM)
-- Sparse Solvers
-
-## 4.2 Languages
-- FORTRAN, Python
-
-## 4.3 Projects
-- Second Harmonic Generation (SHG)
-- Potential Field Reconstruction
+**Code Reality**  
+→ FORTRAN simulations  
+→ FDM, inverse methods  
+→ Nonlinear optics, field modeling
 
 ---
 
-# 5. 🧭 Personal Branding
+### 🧭 Personal Branding
 
-*Professional Growth & Communication*
-
-## 5.1 Resume & Portfolio
-- ATS-optimized resume template
-- GitHub profile styling
-
-## 5.2 Visual Design
-- LinkedIn banner designs
-- Repository branding (banners, topics, descriptions)
+**Show Your Work**  
+→ ATS-ready resume  
+→ GitHub profile design  
+→ Visual storytelling for tech
 
 ## Skills 
 
