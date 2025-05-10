@@ -8,8 +8,41 @@
 
 ---
 
-| <b>🧠 AI Engineering</b><br>Think Deep<br>→ Supervised / Unsupervised<br>→ ANN, CNN, Transformers<br>→ ML for scientific discovery<br><br><b>🌍 Space Physics</b><br>Model the Magnetosphere<br>→ IMEF & Dst prediction<br>→ Path integration vs. Least-Squares<br>→ Real-time space weather forecasting<br><br><b>📈 Time Series & Forecasting</b><br>Predict the Future<br>→ Time-series modeling with LSTM, ARIMA, Prophet<br>→ Forecasting geomagnetic storms and space weather<br>→ Handling noisy datasets and missing data | <b>⚙️ ML Engineering</b><br>Build Smart<br>→ Scalable pipelines<br>→ Feature engineering<br>→ Deployment with Docker, GitHub Actions<br><br><b>🧪 Physics & Engineering</b><br>Code Reality<br>→ FORTRAN simulations<br>→ FDM, inverse methods<br>→ Nonlinear optics, field modeling<br><br><b>🧭 Personal Branding</b><br>Show Your Work<br>→ ATS-ready resume<br>→ GitHub profile design<br>→ Visual storytelling for tech |
-|---|---|
+**🧠 AI Engineering**
+Think Deep
+- Supervised / Unsupervised
+- ANN, CNN, Transformers
+- ML for scientific discovery
+
+**🌍 Space Physics**
+Model the Magnetosphere
+- IMEF & Dst prediction
+- Path integration vs. Least-Squares
+- Real-time space weather forecasting
+
+**📈 Time Series & Forecasting**
+Predict the Future
+- Time-series modeling with LSTM, ARIMA, Prophet
+- Forecasting geomagnetic storms and space weather
+- Handling noisy datasets and missing data
+
+**⚙️ ML Engineering**
+Build Smart
+- Scalable pipelines
+- Feature engineering
+- Deployment with Docker, GitHub Actions
+
+**🧪 Physics & Engineering**
+Code Reality
+- FORTRAN simulations
+- FDM, inverse methods
+- Nonlinear optics, field modeling
+
+**🧭 Personal Branding**
+Show Your Work
+- ATS-ready resume
+- GitHub profile design
+- Visual storytelling for tech
 
 ## Skills 
 
