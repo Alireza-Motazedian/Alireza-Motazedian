@@ -3,50 +3,45 @@
 
 
 <div style="font-size:3em; font-white:bold; text-align:center; margin-top:20px;">
-🚀 AI x Space x Engineering — My GitHub Universe
+🚀 🔭 Scientific Machine Learning | Space Physics | Space Weather Modeling| Engineering — My GitHub Universe
 </div>
 
 ---
 
-**🧠 AI Engineering** ———> Think Deep
-- Supervised / Unsupervised
-- ANN, CNN, Transformers
-- ML for scientific discovery
+**🔬 Scientific Machine Learning** → Physics‑Informed Models
+- Inverse problems & Tikhonov regularization
+- Ensemble and time‑series models with uncertainty quantification
+- Hybrid physics + data approaches for space systems
 
+**🌌 Space Physics & Space Weather** → Model the Geospace
+- Real‑time IMEF & Cross Polar Cap Potential (CPCP) prediction
+- Electric‑field reconstruction via field‑line mapping & inversion
+- Operational space‑weather forecasting & nowcasting
+- Geomagnetically induced current (GIC) prediction & mitigation
+
+**⏱️ Time Series & Forecasting** → Predict the Future
+- Non‑stationary modelling with LSTM, TCN, ARIMA & Prophet
+- Feature engineering, denoising & resampling for noisy data
+- Uncertainty‑aware evaluation & decision‑making
+
+**🛠️ ML Engineering** → Build Smart
+- End‑to‑end ML pipelines & reproducible workflows (MLflow)
+- Real‑time data ingestion & scheduled automation
+- Deployment via Docker, systemd & GitHub Actions
+- GPU acceleration & benchmarking (PyTorch, TensorFlow)
+
+**⚙️ Physics & Engineering** → Code Reality
+- FORTRAN/Python simulators & finite‑difference methods
+- Solving inverse problems & PDEs with numerical methods
+- Nonlinear optics & second‑harmonic generation
+- High‑performance scientific computing & parallel processing
+
+**🎓 Teaching & Mentorship** → Share Knowledge
+- Instructor/TA at UNH Physics Department
+- Develop clear learning objectives & guided problem‑solving
+- Mentor students in numerical modelling & ML
+- Make complex science accessible & engaging
 ---
-
-**🌍 Space Physics** ———> Model the Magnetosphere
-- IMEF & Dst prediction
-- Path integration vs. Least-Squares
-- Real-time space weather forecasting
-
----
-
-**📈 Time Series & Forecasting** ———> Predict the Future
-- Time-series modeling with LSTM, ARIMA, Prophet
-- Forecasting geomagnetic storms and space weather
-- Handling noisy datasets and missing data
-
----
-
-**⚙️ ML Engineering** ———> Build Smart
-- Scalable pipelines
-- Feature engineering
-- Deployment with Docker, GitHub Actions
-
----
-
-**🧪 Physics & Engineering** ———> Code Reality
-- FORTRAN simulations
-- FDM, inverse methods
-- Nonlinear optics, field modeling
-
----
-
-**🧭 Personal Branding** ———> Show Your Work
-- ATS-ready resume
-- GitHub profile design
-- Visual storytelling for tech
 
 ## Skills 
 
