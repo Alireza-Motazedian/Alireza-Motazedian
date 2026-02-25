@@ -3,44 +3,42 @@
 
 
 <div style="font-size:3em; font-white:bold; text-align:center; margin-top:20px;">
-🚀 🔭 Scientific Machine Learning | Space Physics | Space Weather Modeling| Engineering — My GitHub Universe
+🚀 🔭 Scientific Machine Learning | Space Physics | Space Weather Modeling
 </div>
 
 ---
 
 **🔬 Scientific Machine Learning** → Physics‑Informed Models
 - Inverse problems & Tikhonov regularization
-- Ensemble and time‑series models with uncertainty quantification
-- Hybrid physics + data approaches for space systems
+- Ensemble & time‑series models with uncertainty quantification
+- Physics-constrained reconstruction of geophysical fields
 
 **🌌 Space Physics & Space Weather** → Model the Geospace
-- Real‑time IMEF & Cross Polar Cap Potential (CPCP) prediction
-- Electric‑field reconstruction via field‑line mapping & inversion
-- Operational space‑weather forecasting & nowcasting
-- Geomagnetically induced current (GIC) prediction & mitigation
+- Real-time IMEF & Cross Polar Cap Potential (CPCP) prediction
+- Electric-field reconstruction via field-line mapping & inversion
+- Geomagnetically induced current (GIC) modeling
 
-**⏱️ Time Series & Forecasting** → Predict the Future
-- Non‑stationary modelling with LSTM, TCN, ARIMA & Prophet
-- Feature engineering, denoising & resampling for noisy data
-- Uncertainty‑aware evaluation & decision‑making
+**⏱ Time Series & Forecasting** → Nonstationary Systems
+- LSTM, TCN, ARIMA & Prophet models
+- Feature engineering & noise-robust preprocessing
+- Storm-time forecasting of geophysical dynamics
 
-**🛠️ ML Engineering** → Build Smart
-- End‑to‑end ML pipelines & reproducible workflows (MLflow)
-- Real‑time data ingestion & scheduled automation
+**🛠 ML Engineering** → From Research to Deployment
+- End-to-end ML pipelines & experiment tracking (MLflow)
+- Automated data ingestion & scheduled inference
 - Deployment via Docker, systemd & GitHub Actions
-- GPU acceleration & benchmarking (PyTorch, TensorFlow)
+- GPU acceleration & performance benchmarking
 
-**⚙️ Physics & Engineering** → Code Reality
-- FORTRAN/Python simulators & finite‑difference methods
-- Solving inverse problems & PDEs with numerical methods
-- Nonlinear optics & second‑harmonic generation
-- High‑performance scientific computing & parallel processing
+**⚙ Physics & Computational Modeling**
+- FORTRAN/Python simulators & finite-difference methods
+- PDE-based modeling of electromagnetic systems
+- Nonlinear optics & second-harmonic generation
+- High-performance scientific computing
 
-**🎓 Teaching & Mentorship** → Share Knowledge
+**🎓 Teaching & Mentorship**
 - Instructor/TA at UNH Physics Department
-- Develop clear learning objectives & guided problem‑solving
-- Mentor students in numerical modelling & ML
-- Make complex science accessible & engaging
+- Guided problem-solving & structured learning design
+- Mentorship in numerical modeling & ML
 ---
 
 ## Skills 
